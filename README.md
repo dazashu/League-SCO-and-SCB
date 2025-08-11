@@ -1,2 +1,2 @@
 # League-SCO-and-SCB
-All League SCO and SCB from patch 25.15
+All League SCO and SCB from patch 15.15, 14.24, 14.9, 13.24, 12.23, 11.24 and 10.25
